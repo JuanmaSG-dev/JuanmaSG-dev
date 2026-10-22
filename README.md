@@ -2,7 +2,7 @@
 
 🎮 Desarrollador de videojuegos indie, trabajando en mi primer proyecto grande.  
 🔧 Trabajo con Unity, aunque también conozco Godot.       
-👔 Estudiante de Desarrollo Web, con el título de Desarrollador de Aplicaciones Multiplataforma.
+👔 Estudiante de Desarrollo Web, con el título de Desarrollador de Aplicaciones Multiplataforma.         
 🧭 Aún no tengo portfolio web, pero tengo varias ideas para reemplazar este portfolio temporal en el futuro.
 
 ---
@@ -40,7 +40,7 @@
 **Rol:** Todo, el juego lo realicé yo en su totalidad.
 **Herramientas:** Unity y Aseprite
 
-Tengo otros prototipos como:
+Tengo otros prototipos como:                     
 [Daily Prelude](https://juanmasg.itch.io/daily-prelude)
 [Keybound Souls](https://juanmasg.itch.io/keybound-souls)
 ---
