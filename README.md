@@ -1,12 +1,32 @@
-# 👋 ¡Hola! Soy Juan Manuel, aunque mi alias es Void Watcher.
+# 👋 ¡Hola! Soy Juan Manuel, creador indie en VoidWatcherGames, mi propio estudio.
 
-🎮 Desarrollador de videojuegos indie en proceso.  
+🎮 Desarrollador de videojuegos indie, trabajando en mi primer proyecto grande.  
 🔧 Trabajo con Unity, aunque también conozco Godot.       
-👔 También estudié desarrollo de aplicaciones multiplataforma, pero no suelo crear por mi cuenta.
+👔 Estudiante de Desarrollo Web, con el título de Desarrollador de Aplicaciones Multiplataforma.
+🧭 Aún no tengo portfolio web, pero tengo varias ideas para reemplazar este portfolio temporal en el futuro.
 
 ---
 
-## 🕹️ Proyectos Destacados
+## 🕹️ Proyectos Destacados 
+(La mayoría se pueden jugar en el navegador gracias a webgl)
+
+### [🔗 Treasure Trenches](https://juanmasg.itch.io/treasure-trenches)
+*Un juego de buceo con mejoras, logros y más, ¿podrás llegar al fondo?*
+**Juego de GameJam realizado en 1 semana**
+**Rol:** Desarrollo del código, los assets artísticos y el diseño. La música fue sacada de internet con licencia.
+**Herramientas**: Unity y Aseprite
+
+### [🔗 Solstice Lighthouse](https://juanmasg.itch.io/treasure-trenches)
+*Un juego de gestión de una aldea, se hizo lo que se pudo con el poco tiempo*
+**Juego de GameJam realizado en 4 días**
+**Rol:** Desarrollo del código, los assets artísticos y el diseño.
+**Herramientas**: Unity y Photoshop
+
+### [🔗 Lone Watcher](https://juanmasg.itch.io/lone-watcher)
+*Un juego donde tendrás varias tareas diarias, estando solo en mitad del espacio, prototipo técnico*
+**Juego de GameJam realizado en 7 días**
+**Rol:** Desarrollo del código. La música fue compuesta por un compañero de jam.
+**Herramientas**: Unity
  
 ### [🔗 Dream Party](https://dokozak.itch.io/ficzone-2025)
 *Una compilación de minijuegos con diferentes jugabilidades.*  
@@ -15,23 +35,31 @@
 **Herramientas:** Unity y Blender  
 
 ### [🔗 Tempo Keeper](https://juanmasg.itch.io/tempo-keeper)
-*Un corto juego donde hay que mantener un ritmo constante mientras minijuegos intentan distraerte, creado para una GameJam de 1 semana.*  
+*Un corto juego donde hay que mantener un ritmo constante mientras minijuegos intentan distraerte.*  
+**Juego de GameJam realizado en 1 semana**
 **Rol:** Todo, el juego lo realicé yo en su totalidad.
 **Herramientas:** Unity y Aseprite
 
-### [🔗 Ocean's Gloom](https://juanmasg.itch.io/oceans-gloom)
-*Un juego de pesca donde exploras océanos prohibidos, fue mi primer juego y fue un proyecto de clase.*  
-**Rol:** Todo, el juego lo realicé yo en su totalidad.
-**Herramientas:** Unity y Aseprite
-
+Tengo otros prototipos como:
+[Daily Prelude](https://juanmasg.itch.io/daily-prelude)
+[Keybound Souls](https://juanmasg.itch.io/keybound-souls)
 ---
 
-## 📂 Tecnologías y herramientas
+## 📂 Tecnologías y herramientas de GameDev
 
 - Unity (nivel intermedio)
+- Godot
 - C#
 - Git & GitHub
 - Aseprite, Blender, Photoshop
+
+## 📂 Tecnologías y herramientas de Desarrollo Web y DAM
+
+- PHP
+- JavaScript, NodeJS
+- HTML, CSS
+- Flutter, Firebase, Kotlin
+- Python
 
 ---
 
